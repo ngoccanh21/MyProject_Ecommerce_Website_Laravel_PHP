@@ -264,7 +264,7 @@ class checkoutController extends Controller
 
 
     //bumbummen99
-    //insert thông tin 4 bảng shiiping, đơn hàng, ctdh, payment
+    //insert thông tin 4 bảng shipping, đơn hàng, ctdh, payment
     public function dat_hang(Request $request) //post
     {
         //insert tt vận chuyển
